@@ -1,4 +1,4 @@
-baseURL = "https://bhujelkaefer-lgtm.github.io/kaefer-lgtm.github.io"
+baseURL = "https://bhujelkaefer-lgtm.github.io/kaefer-lgtm.github.io/"
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
